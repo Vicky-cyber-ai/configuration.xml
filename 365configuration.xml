@@ -1,5 +1,5 @@
-<Configuration ID="7c97b5e9-5038-4397-9677-a3f1a9a64cd7">
-<Add OfficeClientEdition="64" Channel="Current">
+<Configuration ID="8e7cd62b-6f60-4c6a-aa58-145b82b994d2">
+<Add OfficeClientEdition="64" Channel="Current" Version="16.0.20326.20158">
 <Product ID="O365BusinessRetail">
 <Language ID="en-us"/>
 <ExcludeApp ID="Groove"/>
